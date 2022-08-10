@@ -1,0 +1,12 @@
+.emptySearch {
+  color: var(--light-color);
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  color: white;
+  font-size: 2.75rem;
+  align-self: center;
+  margin-bottom: 0;
+}

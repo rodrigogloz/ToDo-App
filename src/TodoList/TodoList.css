@@ -1,0 +1,19 @@
+ul {
+  margin: 0;
+  padding: 0 0 56px 0;
+  list-style: none;
+}
+
+.TodoList-container {
+  display: flex;
+  flex-direction: column;
+  margin: 14px auto;
+  justify-content: center;
+  width: 100%;
+}
+
+.TodoList-container > ul {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
