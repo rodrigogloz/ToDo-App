@@ -8,3 +8,5 @@ Cuenta con memoria local, lo que permite al usuario que su lista de tareas no se
 
 Este repositorio ha sido clonado del repositorio ToDo-Machine, de mi misma autoría.
 Para visitar anteriores commits ver repo en https://github.com/rodrigogloz/ToDo-Machine.
+
+Visitar proyecto en https://rodrigogloz.github.io/ToDo-App/
